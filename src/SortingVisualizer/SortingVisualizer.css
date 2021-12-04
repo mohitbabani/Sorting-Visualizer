@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(245, 221, 189);
+}
+
+.array-container{
+    position: absolute;
+    left: 100px;
+    right: 100px;
+}
+
+.array-bar{
+    background-color: rgb(13, 65, 59);
+    display: inline-block;
+    margin: 1px;
+}
+
+button{
+    font-size: 110%;
+    margin: 5px;
+    color: whitesmoke;
+    background-color: rgb(56, 15, 15);
+}
+
+p{
+    margin: 1px;
+    font-size: 120%;
+    font-weight: bold;
+    display: inline;
+}
